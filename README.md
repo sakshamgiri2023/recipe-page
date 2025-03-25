@@ -24,7 +24,7 @@ This is a  Recipe page  help you improve your coding skills by building realisti
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://recipe-page123.netlify.app/
 
 ## My process
 
