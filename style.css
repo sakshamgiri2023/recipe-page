@@ -1,0 +1,36 @@
+.body{
+    color:  hsl(32, 47%, 82%);
+}
+#flex-container{
+    display: flex;
+    justify-content: center;
+    margin: 80px;
+    width: 40px;;
+    padding: 20px;
+}
+#flex-container{
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+    width: fit-content;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 20px;
+}
+#image{
+    width: fit-content;
+    border-radius: 2px;
+
+}
+
+#prep-time{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color:hsl(330, 100%, 98%);
+}
+
+#footer{
+    display: flex;
+    justify-content: space-around;
+}
