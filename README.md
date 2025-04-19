@@ -1,42 +1,62 @@
-# Recipe page 
+# Recipe Page
 
-This is a  Recipe page  help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+![HTML](https://img.shields.io/badge/HTML-82.7%25-orange)
+![CSS](https://img.shields.io/badge/CSS-17.3%25-purple)
 
 ## Overview
 
+**Recipe Page** is a project built using **HTML** and **CSS**. This repository is designed to showcase a webpage dedicated to recipes, providing a user-friendly and visually appealing interface for food enthusiasts to explore and enjoy.
 
-### Links
+## Features
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: https://recipe-page123.netlify.app/
+- Responsive design for optimal viewing on all devices.
+- Clean and structured HTML for easy navigation.
+- Aesthetic and consistent styling using CSS.
+- [Add more features specific to your project.]
 
-## My process
+## Tech Stack
 
-### Built with
+- **HTML**: For structuring the content of the webpage.
+- **CSS**: For styling and layout.
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+## Installation
 
+Follow these steps to set up and view the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sakshamgiri2023/recipe-page.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd recipe-page
+   ```
+3. Open the `index.html` file in your browser to view the webpage.
+
+## Usage
+
+[Explain how users can interact with or utilize the recipe page. Include screenshots or examples if possible.]
+
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork this repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add feature-name"
+   ```
+4. Push to your branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a pull request.
+
+## License
+
+MIT
 
